@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anugrah K</h1>
 <h3 align="center">A passionate developer from India</h3>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahk21&label=Profile%20views&color=0e75b6&style=flat" alt="anugrahk21" /> </p>
 

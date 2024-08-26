@@ -11,7 +11,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/anugrahk21](https://github.com/anugrahk21)
 
-💬 Ask me about **Python, C.**
+💬 Ask me about **Python, C, C++.**
 
 📫 How to reach me **anugrah.k910@gmail.com**
 </div>

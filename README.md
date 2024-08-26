@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahk21&label=Profile%20views&color=0e75b6&style=flat" alt="anugrahk21" /> </p>
 <div align="center"> 
   
-  🔭 I’m currently working on [AI Chat Bot](https://github.com/anugrahk21/Chat_AI)
+  🔭 I’m currently working on [DSA with C++/C](https://github.com/anugrahk21/CPP-DSA), [AI Chat Bot](https://github.com/anugrahk21/Chat_AI)
   
   🌱 I’m currently learning **Django, C++**
 

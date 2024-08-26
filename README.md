@@ -7,7 +7,7 @@
   
   🔭 I’m currently working on [AI Chat Bot](https://github.com/anugrahk21/Chat_AI)
   
-  🌱 I’m currently learning **Django**
+  🌱 I’m currently learning **Django, C++**
 
 👨‍💻 All of my projects are available at [https://github.com/anugrahk21](https://github.com/anugrahk21)
 
